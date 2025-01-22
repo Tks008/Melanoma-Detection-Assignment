@@ -1,1 +1,6 @@
 # Melanoma-Detection-Assignment
+## Goal
+The goal of this project is to develop a convolutional neural network (CNN)-based model capable of accurately detecting melanoma, a deadly form of skin cancer responsible for 75% of skin cancer-related fatalities if not diagnosed early. Early detection is critical, and an automated system that analyzes skin images and alerts dermatologists to potential melanoma cases could significantly reduce the time and effort needed for diagnosis. By leveraging machine learning, this solution aims to provide a more efficient and reliable approach to skin cancer detection.
+
+## Description
+To achieve this, the project aims to build a multiclass classification model using a custom CNN framework developed with TensorFlow. The dataset used for training consists of 2,357 images of various skin conditions, both malignant and benign, sourced from the International Skin Imaging Collaboration (ISIC). These images are organized according to ISIC classifications, with most conditions being equally represented, although melanomas and moles are slightly more frequent. The dataset includes a range of conditions, such as Actinic keratosis, Basal cell carcinoma, Dermatofibroma, Melanoma, Nevus, Pigmented benign keratosis, Seborrheic keratosis, Squamous cell carcinoma, and Vascular lesions.
